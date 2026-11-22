@@ -1,0 +1,272 @@
+{
+  "manifestVersion": 1,
+  "minLauncherVersion": "0.2.0",
+  "rcx": {
+    "version": "0.60",
+    "files": [
+      {
+        "path": "gmcl_rcx_win64.dll",
+        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.60/gmcl_rcx_win64.dll",
+        "sha256": "df5c3355d619b83ca7fe17729176b45b2e918f5d8db063a26776cd13ac5480f1"
+      },
+      {
+        "path": "openvr_api.dll",
+        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.60/openvr_api.dll",
+        "sha256": "bab8ac6ef64e68a9ca53315b0014d131088584b2efdfa6db511d67ec03cfcb4a"
+      }
+    ]
+  },
+  "workshop": {
+    "content": [
+      {
+        "id": "1999013014",
+        "name": "Apparel"
+      },
+      {
+        "id": "1999018626",
+        "name": "Music"
+      },
+      {
+        "id": "1999103617",
+        "name": "NV Mapping 1"
+      },
+      {
+        "id": "1999053532",
+        "name": "NV Mapping 2"
+      },
+      {
+        "id": "3017749295",
+        "name": "NV Mapping 3 (Roadkill)"
+      },
+      {
+        "id": "1999078930",
+        "name": "Weapons 1"
+      },
+      {
+        "id": "1999060614",
+        "name": "Weapons 2"
+      },
+      {
+        "id": "1999061911",
+        "name": "Npc 1"
+      },
+      {
+        "id": "2486174330",
+        "name": "Npc 2"
+      },
+      {
+        "id": "2016598677",
+        "name": "Misc 1"
+      },
+      {
+        "id": "1999953274",
+        "name": "Misc 2"
+      },
+      {
+        "id": "3617226181",
+        "name": "Misc 3"
+      },
+      {
+        "id": "1999655991",
+        "name": "Required Character"
+      },
+      {
+        "id": "1999213625",
+        "name": "Fallout 4 mapping"
+      },
+      {
+        "id": "2174773565",
+        "name": "Source Misc"
+      },
+      {
+        "id": "3328507207",
+        "name": "Contributor Mapping"
+      },
+      {
+        "id": "3328510513",
+        "name": "Contribtor NPCs"
+      },
+      {
+        "id": "3328360934",
+        "name": "Contributor Armors"
+      },
+      {
+        "id": "3328368961",
+        "name": "Contributor Weapons"
+      },
+      {
+        "id": "3217826764",
+        "name": "Roadkill Power Armor"
+      },
+      {
+        "id": "2052642961",
+        "name": "Particles Pack"
+      },
+      {
+        "id": "264117570",
+        "name": "Legacy NPCs"
+      },
+      {
+        "id": "807255643",
+        "name": "Legacy Misc"
+      },
+      {
+        "id": "1525572545",
+        "name": "vFire"
+      },
+      {
+        "id": "2082709112",
+        "name": "Metro Corpses"
+      },
+      {
+        "id": "1460952260",
+        "name": "Enclave Bunker Pieces"
+      },
+      {
+        "id": "2986093680",
+        "name": "Melee Weapons"
+      },
+      {
+        "id": "3234192542",
+        "name": "Backpacks"
+      },
+      {
+        "id": "218917501",
+        "name": "Simpleweather"
+      },
+      {
+        "id": "2974533993",
+        "name": "Fallout: A Prop Pack of Two Wastelands"
+      },
+      {
+        "id": "3111031938",
+        "name": "[LVS] - Flight School"
+      },
+      {
+        "id": "3027255911",
+        "name": "[LVS] - Cars"
+      },
+      {
+        "id": "2912816023",
+        "name": "[LVS] - Framework"
+      },
+      {
+        "id": "3405185422",
+        "name": "[LVS] - True Vertibird"
+      },
+      {
+        "id": "2922255746",
+        "name": "[LVS] - Helicopters"
+      },
+      {
+        "id": "2933375962",
+        "name": "[LVS] - Crash Cutscene"
+      }
+    ],
+    "maps": [
+      {
+        "id": "813008777",
+        "name": "zombiesurvival_seclusionwoods"
+      },
+      {
+        "id": "1518124311",
+        "name": "gm_wasteland_by_mt"
+      },
+      {
+        "id": "262692111",
+        "name": "pn_wastedwaters_beta_2"
+      },
+      {
+        "id": "1572373847",
+        "name": "gm_boreas"
+      },
+      {
+        "id": "1765064201",
+        "name": "rp_zayon_remaster"
+      },
+      {
+        "id": "105984257",
+        "name": "gm_atomic"
+      },
+      {
+        "id": "2970627116",
+        "name": "rp_provo"
+      },
+      {
+        "id": "132913036",
+        "name": "rp_city8"
+      },
+      {
+        "id": "132911524",
+        "name": "rp_city8_canals"
+      },
+      {
+        "id": "3299664830",
+        "name": "gm_inyo_vault"
+      },
+      {
+        "id": "3021371932",
+        "name": "rp_mojave"
+      },
+      {
+        "id": "3740539674",
+        "name": "rsrg_drystate2"
+      },
+      {
+        "id": "3740548346",
+        "name": "rsrg_yolla"
+      },
+      {
+        "id": "3739247613",
+        "name": "rsrg_coolsnow"
+      },
+      {
+        "id": "3740551219",
+        "name": "rsrg_apocalypse"
+      },
+      {
+        "id": "3740551501",
+        "name": "gm_kneedeep"
+      },
+      {
+        "id": "3740547780",
+        "name": "rsrg_salem"
+      }
+    ]
+  },
+  "servers": [
+    {
+      "name": "Salt Wells",
+      "address": "152.53.37.167:27015"
+    },
+    {
+      "name": "Yolla Bolly",
+      "address": "152.53.37.167:27215"
+    },
+    {
+      "name": "Mountain Pass",
+      "address": "152.53.37.167:27315"
+    },
+    {
+      "name": "The Ash Lands",
+      "address": "152.53.37.167:27415"
+    },
+    {
+      "name": "Dead Estuary",
+      "address": "152.53.37.167:27515"
+    },
+    {
+      "name": "Salem Ruins",
+      "address": "152.53.37.167:27615"
+    },
+    {
+      "name": "Development Server",
+      "address": "152.53.37.167:27115",
+      "test": true
+    }
+  ],
+  "masterServerFilter": {
+    "gamedir": "garrysmod",
+    "gamemode": "resurgence"
+  }
+}
