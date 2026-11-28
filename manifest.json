@@ -2,16 +2,16 @@
   "manifestVersion": 1,
   "minLauncherVersion": "0.2.0",
   "rcx": {
-    "version": "0.73",
+    "version": "0.80",
     "files": [
       {
         "path": "gmcl_rcx_win64.dll",
-        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.73/gmcl_rcx_win64.dll",
-        "sha256": "1d69a5a86ef35679fac19a20c47ad531c21475ba21794e359a83092d8f975912"
+        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.80/gmcl_rcx_win64.dll",
+        "sha256": "5fa2c041c253d5d30838ae8e6c884751827629bba1f0e27a930ec7177999d9fb"
       },
       {
         "path": "openvr_api.dll",
-        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.73/openvr_api.dll",
+        "url": "https://github.com/resurgence-dev/resurgence-client-expansion/releases/download/v0.80/openvr_api.dll",
         "sha256": "bab8ac6ef64e68a9ca53315b0014d131088584b2efdfa6db511d67ec03cfcb4a"
       }
     ]
